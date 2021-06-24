@@ -10,6 +10,8 @@
   <img align="center" alt="Luca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luca-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="Luca-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
   
   ### Sou estudante em engenharia de computação e muito curioso acerca de novas tecnologias. Sou focado no desenvolvimento front-end, utilizando ReactJS no meu dia a dia. Programação e segurança da informação são áreas que me maravilham e estudo diariamente. Em resumo, sou apaixonado por tecnologia!
